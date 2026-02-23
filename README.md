@@ -6,11 +6,11 @@ This project develops and evaluates time-series forecasting models to predict mo
 
 The study focuses on three representative commodity groups:
 
-Furniture and Fixtures
+1. Furniture and Fixtures
 
-Clothing and Footwear
+2. Clothing and Footwear
 
-Canola (including rapeseed)
+3. Agriculture Products
 
 The objective is to generate accurate 3-month and 12-month ahead forecasts to support:
 
