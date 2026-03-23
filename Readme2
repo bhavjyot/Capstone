@@ -1,0 +1,46 @@
+Forecasting Canadian Import Volume
+
+## Project Overview
+This project forecasts monthly import volume indexes for selected Canadian commodity groups:
+- Furniture and Fixtures
+- Clothing and Footwear
+- Agricultural Products
+
+The goal is to evaluate different forecasting models and compare their performance.
+
+## Dataset
+Source: Statistics Canada  
+Period: 2017–2025  
+Frequency: Monthly  
+
+## Models Used
+- Naïve
+- Seasonal Naïve
+- Linear Regression (lag features)
+- Random Forest
+- SARIMA
+
+## Methodology
+- Data cleaning and filtering (imports, seasonally adjusted)
+- Feature engineering (lags, rolling averages, COVID dummy)
+- Train-test split (2017–2023 train, 2024–2025 test)
+- Model evaluation using RMSE and MAE
+
+## Key Findings
+- Naïve model outperformed all other models
+- Advanced models did not improve accuracy
+- Weak seasonality and structural breaks impacted performance
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Statsmodels
+
+## Repository Structure
+- Notebook (.ipynb)
+- Dataset (or link)
+- Report (PDF/Word)
+
+## Author
+Bhavjyot Singh
