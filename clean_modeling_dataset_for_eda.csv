@@ -1,0 +1,322 @@
+refDate,group,priceIndex,volumeIndex,year,month,monthName
+2017-01-01,Agriculture,93.0,97.5,2017,1,Jan
+2017-02-01,Agriculture,106.5,90.6,2017,2,Feb
+2017-03-01,Agriculture,105.0,94.5,2017,3,Mar
+2017-04-01,Agriculture,134.0,77.7,2017,4,Apr
+2017-05-01,Agriculture,113.9,91.0,2017,5,May
+2017-06-01,Agriculture,102.4,102.3,2017,6,Jun
+2017-07-01,Agriculture,94.3,109.0,2017,7,Jul
+2017-08-01,Agriculture,93.5,110.2,2017,8,Aug
+2017-09-01,Agriculture,94.8,103.2,2017,9,Sep
+2017-10-01,Agriculture,94.1,105.7,2017,10,Oct
+2017-11-01,Agriculture,91.5,109.6,2017,11,Nov
+2017-12-01,Agriculture,89.9,108.7,2017,12,Dec
+2018-01-01,Agriculture,93.7,105.4,2018,1,Jan
+2018-02-01,Agriculture,87.9,110.1,2018,2,Feb
+2018-03-01,Agriculture,94.1,104.6,2018,3,Mar
+2018-04-01,Agriculture,91.1,106.3,2018,4,Apr
+2018-05-01,Agriculture,91.6,105.9,2018,5,May
+2018-06-01,Agriculture,89.7,112.4,2018,6,Jun
+2018-07-01,Agriculture,91.5,111.6,2018,7,Jul
+2018-08-01,Agriculture,96.4,103.4,2018,8,Aug
+2018-09-01,Agriculture,92.7,110.2,2018,9,Sep
+2018-10-01,Agriculture,81.6,123.1,2018,10,Oct
+2018-11-01,Agriculture,92.0,111.8,2018,11,Nov
+2018-12-01,Agriculture,110.6,98.8,2018,12,Dec
+2019-01-01,Agriculture,98.2,106.5,2019,1,Jan
+2019-02-01,Agriculture,102.0,99.2,2019,2,Feb
+2019-03-01,Agriculture,101.2,107.6,2019,3,Mar
+2019-04-01,Agriculture,98.1,112.1,2019,4,Apr
+2019-05-01,Agriculture,98.8,104.5,2019,5,May
+2019-06-01,Agriculture,107.9,99.2,2019,6,Jun
+2019-07-01,Agriculture,112.5,95.6,2019,7,Jul
+2019-08-01,Agriculture,98.9,111.8,2019,8,Aug
+2019-09-01,Agriculture,96.9,108.2,2019,9,Sep
+2019-10-01,Agriculture,104.7,97.5,2019,10,Oct
+2019-11-01,Agriculture,103.6,100.1,2019,11,Nov
+2019-12-01,Agriculture,96.4,109.2,2019,12,Dec
+2020-01-01,Agriculture,108.3,99.5,2020,1,Jan
+2020-02-01,Agriculture,98.4,107.6,2020,2,Feb
+2020-03-01,Agriculture,98.3,121.6,2020,3,Mar
+2020-04-01,Agriculture,106.2,93.3,2020,4,Apr
+2020-05-01,Agriculture,99.4,109.4,2020,5,May
+2020-06-01,Agriculture,103.8,103.4,2020,6,Jun
+2020-07-01,Agriculture,99.1,115.2,2020,7,Jul
+2020-08-01,Agriculture,100.7,111.3,2020,8,Aug
+2020-09-01,Agriculture,101.6,106.6,2020,9,Sep
+2020-10-01,Agriculture,98.0,114.0,2020,10,Oct
+2020-11-01,Agriculture,90.6,122.2,2020,11,Nov
+2020-12-01,Agriculture,85.4,117.5,2020,12,Dec
+2021-01-01,Agriculture,82.5,127.7,2021,1,Jan
+2021-02-01,Agriculture,89.9,121.3,2021,2,Feb
+2021-03-01,Agriculture,84.5,128.1,2021,3,Mar
+2021-04-01,Agriculture,88.1,121.2,2021,4,Apr
+2021-05-01,Agriculture,91.1,119.0,2021,5,May
+2021-06-01,Agriculture,93.8,114.3,2021,6,Jun
+2021-07-01,Agriculture,89.1,118.4,2021,7,Jul
+2021-08-01,Agriculture,95.9,112.4,2021,8,Aug
+2021-09-01,Agriculture,97.3,115.0,2021,9,Sep
+2021-10-01,Agriculture,91.9,125.0,2021,10,Oct
+2021-11-01,Agriculture,93.0,121.3,2021,11,Nov
+2021-12-01,Agriculture,93.8,119.4,2021,12,Dec
+2022-01-01,Agriculture,96.4,114.3,2022,1,Jan
+2022-02-01,Agriculture,90.6,127.1,2022,2,Feb
+2022-03-01,Agriculture,107.9,109.6,2022,3,Mar
+2022-04-01,Agriculture,92.8,123.5,2022,4,Apr
+2022-05-01,Agriculture,104.9,108.6,2022,5,May
+2022-06-01,Agriculture,91.2,118.3,2022,6,Jun
+2022-07-01,Agriculture,103.5,115.6,2022,7,Jul
+2022-08-01,Agriculture,101.1,116.7,2022,8,Aug
+2022-09-01,Agriculture,108.1,109.6,2022,9,Sep
+2022-10-01,Agriculture,117.1,105.5,2022,10,Oct
+2022-11-01,Agriculture,136.0,88.0,2022,11,Nov
+2022-12-01,Agriculture,129.3,93.6,2022,12,Dec
+2023-01-01,Agriculture,90.5,136.6,2023,1,Jan
+2023-02-01,Agriculture,117.3,101.5,2023,2,Feb
+2023-03-01,Agriculture,95.0,126.7,2023,3,Mar
+2023-04-01,Agriculture,135.5,89.3,2023,4,Apr
+2023-05-01,Agriculture,93.6,129.0,2023,5,May
+2023-06-01,Agriculture,96.6,133.0,2023,6,Jun
+2023-07-01,Agriculture,97.4,122.0,2023,7,Jul
+2023-08-01,Agriculture,102.8,119.9,2023,8,Aug
+2023-09-01,Agriculture,97.8,127.7,2023,9,Sep
+2023-10-01,Agriculture,102.7,120.7,2023,10,Oct
+2023-11-01,Agriculture,90.0,139.7,2023,11,Nov
+2023-12-01,Agriculture,88.2,142.4,2023,12,Dec
+2024-01-01,Agriculture,98.4,127.3,2024,1,Jan
+2024-02-01,Agriculture,102.0,128.4,2024,2,Feb
+2024-03-01,Agriculture,112.5,114.0,2024,3,Mar
+2024-04-01,Agriculture,111.8,125.4,2024,4,Apr
+2024-05-01,Agriculture,112.1,120.2,2024,5,May
+2024-06-01,Agriculture,115.7,114.8,2024,6,Jun
+2024-07-01,Agriculture,108.8,121.9,2024,7,Jul
+2024-08-01,Agriculture,105.9,127.5,2024,8,Aug
+2024-09-01,Agriculture,106.0,134.0,2024,9,Sep
+2024-10-01,Agriculture,93.8,145.9,2024,10,Oct
+2024-11-01,Agriculture,102.9,138.3,2024,11,Nov
+2024-12-01,Agriculture,112.7,127.2,2024,12,Dec
+2025-01-01,Agriculture,101.4,141.9,2025,1,Jan
+2025-02-01,Agriculture,106.5,125.4,2025,2,Feb
+2025-03-01,Agriculture,100.5,138.8,2025,3,Mar
+2025-04-01,Agriculture,102.6,128.4,2025,4,Apr
+2025-05-01,Agriculture,101.6,130.7,2025,5,May
+2025-06-01,Agriculture,102.9,127.9,2025,6,Jun
+2025-07-01,Agriculture,108.4,122.4,2025,7,Jul
+2025-08-01,Agriculture,104.7,125.3,2025,8,Aug
+2025-09-01,Agriculture,103.6,126.3,2025,9,Sep
+2025-10-01,Agriculture,103.4,132.2,2025,10,Oct
+2025-11-01,Agriculture,93.9,142.1,2025,11,Nov
+2017-01-01,Clothing and Footwear,106.2,93.8,2017,1,Jan
+2017-02-01,Clothing and Footwear,103.0,100.5,2017,2,Feb
+2017-03-01,Clothing and Footwear,108.1,85.9,2017,3,Mar
+2017-04-01,Clothing and Footwear,102.7,101.6,2017,4,Apr
+2017-05-01,Clothing and Footwear,105.6,97.8,2017,5,May
+2017-06-01,Clothing and Footwear,103.0,100.4,2017,6,Jun
+2017-07-01,Clothing and Footwear,99.4,102.2,2017,7,Jul
+2017-08-01,Clothing and Footwear,96.0,100.3,2017,8,Aug
+2017-09-01,Clothing and Footwear,94.9,101.6,2017,9,Sep
+2017-10-01,Clothing and Footwear,93.9,100.8,2017,10,Oct
+2017-11-01,Clothing and Footwear,95.7,105.5,2017,11,Nov
+2017-12-01,Clothing and Footwear,94.1,109.7,2017,12,Dec
+2018-01-01,Clothing and Footwear,92.6,100.2,2018,1,Jan
+2018-02-01,Clothing and Footwear,95.4,105.1,2018,2,Feb
+2018-03-01,Clothing and Footwear,94.3,112.9,2018,3,Mar
+2018-04-01,Clothing and Footwear,95.4,106.4,2018,4,Apr
+2018-05-01,Clothing and Footwear,94.9,112.0,2018,5,May
+2018-06-01,Clothing and Footwear,97.1,111.1,2018,6,Jun
+2018-07-01,Clothing and Footwear,98.3,108.0,2018,7,Jul
+2018-08-01,Clothing and Footwear,100.6,99.3,2018,8,Aug
+2018-09-01,Clothing and Footwear,101.3,104.9,2018,9,Sep
+2018-10-01,Clothing and Footwear,101.9,103.7,2018,10,Oct
+2018-11-01,Clothing and Footwear,99.6,110.1,2018,11,Nov
+2018-12-01,Clothing and Footwear,103.6,107.1,2018,12,Dec
+2019-01-01,Clothing and Footwear,104.3,114.0,2019,1,Jan
+2019-02-01,Clothing and Footwear,102.0,106.3,2019,2,Feb
+2019-03-01,Clothing and Footwear,100.5,117.8,2019,3,Mar
+2019-04-01,Clothing and Footwear,103.3,108.9,2019,4,Apr
+2019-05-01,Clothing and Footwear,101.6,115.7,2019,5,May
+2019-06-01,Clothing and Footwear,102.3,113.8,2019,6,Jun
+2019-07-01,Clothing and Footwear,102.1,113.9,2019,7,Jul
+2019-08-01,Clothing and Footwear,104.9,101.1,2019,8,Aug
+2019-09-01,Clothing and Footwear,103.9,101.6,2019,9,Sep
+2019-10-01,Clothing and Footwear,103.4,93.0,2019,10,Oct
+2019-11-01,Clothing and Footwear,103.1,95.3,2019,11,Nov
+2019-12-01,Clothing and Footwear,100.8,107.3,2019,12,Dec
+2020-01-01,Clothing and Footwear,102.0,105.1,2020,1,Jan
+2020-02-01,Clothing and Footwear,104.1,93.9,2020,2,Feb
+2020-03-01,Clothing and Footwear,104.9,91.7,2020,3,Mar
+2020-04-01,Clothing and Footwear,96.2,66.5,2020,4,Apr
+2020-05-01,Clothing and Footwear,110.3,57.3,2020,5,May
+2020-06-01,Clothing and Footwear,103.4,72.2,2020,6,Jun
+2020-07-01,Clothing and Footwear,104.7,79.1,2020,7,Jul
+2020-08-01,Clothing and Footwear,102.1,89.7,2020,8,Aug
+2020-09-01,Clothing and Footwear,101.5,88.8,2020,9,Sep
+2020-10-01,Clothing and Footwear,101.9,100.6,2020,10,Oct
+2020-11-01,Clothing and Footwear,104.2,95.4,2020,11,Nov
+2020-12-01,Clothing and Footwear,103.4,84.6,2020,12,Dec
+2021-01-01,Clothing and Footwear,101.7,85.2,2021,1,Jan
+2021-02-01,Clothing and Footwear,101.2,95.8,2021,2,Feb
+2021-03-01,Clothing and Footwear,101.5,99.1,2021,3,Mar
+2021-04-01,Clothing and Footwear,102.9,92.9,2021,4,Apr
+2021-05-01,Clothing and Footwear,101.0,96.7,2021,5,May
+2021-06-01,Clothing and Footwear,103.1,75.0,2021,6,Jun
+2021-07-01,Clothing and Footwear,103.0,74.6,2021,7,Jul
+2021-08-01,Clothing and Footwear,104.6,92.8,2021,8,Aug
+2021-09-01,Clothing and Footwear,106.3,94.5,2021,9,Sep
+2021-10-01,Clothing and Footwear,106.5,102.3,2021,10,Oct
+2021-11-01,Clothing and Footwear,105.5,100.6,2021,11,Nov
+2021-12-01,Clothing and Footwear,105.0,105.7,2021,12,Dec
+2022-01-01,Clothing and Footwear,106.8,98.4,2022,1,Jan
+2022-02-01,Clothing and Footwear,111.1,96.4,2022,2,Feb
+2022-03-01,Clothing and Footwear,109.8,111.4,2022,3,Mar
+2022-04-01,Clothing and Footwear,111.6,139.2,2022,4,Apr
+2022-05-01,Clothing and Footwear,112.8,122.4,2022,5,May
+2022-06-01,Clothing and Footwear,112.4,111.4,2022,6,Jun
+2022-07-01,Clothing and Footwear,111.9,116.3,2022,7,Jul
+2022-08-01,Clothing and Footwear,100.8,141.7,2022,8,Aug
+2022-09-01,Clothing and Footwear,109.7,135.7,2022,9,Sep
+2022-10-01,Clothing and Footwear,111.9,135.5,2022,10,Oct
+2022-11-01,Clothing and Footwear,116.2,129.9,2022,11,Nov
+2022-12-01,Clothing and Footwear,120.3,113.4,2022,12,Dec
+2023-01-01,Clothing and Footwear,119.4,123.1,2023,1,Jan
+2023-02-01,Clothing and Footwear,111.0,124.6,2023,2,Feb
+2023-03-01,Clothing and Footwear,114.2,100.5,2023,3,Mar
+2023-04-01,Clothing and Footwear,111.3,115.0,2023,4,Apr
+2023-05-01,Clothing and Footwear,111.8,115.8,2023,5,May
+2023-06-01,Clothing and Footwear,108.6,120.9,2023,6,Jun
+2023-07-01,Clothing and Footwear,111.1,102.1,2023,7,Jul
+2023-08-01,Clothing and Footwear,108.4,102.0,2023,8,Aug
+2023-09-01,Clothing and Footwear,113.2,95.7,2023,9,Sep
+2023-10-01,Clothing and Footwear,104.1,100.2,2023,10,Oct
+2023-11-01,Clothing and Footwear,97.7,115.7,2023,11,Nov
+2023-12-01,Clothing and Footwear,94.6,132.6,2023,12,Dec
+2024-01-01,Clothing and Footwear,92.1,122.2,2024,1,Jan
+2024-02-01,Clothing and Footwear,93.4,130.7,2024,2,Feb
+2024-03-01,Clothing and Footwear,91.1,133.6,2024,3,Mar
+2024-04-01,Clothing and Footwear,90.4,131.3,2024,4,Apr
+2024-05-01,Clothing and Footwear,90.0,131.5,2024,5,May
+2024-06-01,Clothing and Footwear,93.0,130.8,2024,6,Jun
+2024-07-01,Clothing and Footwear,90.2,132.3,2024,7,Jul
+2024-08-01,Clothing and Footwear,90.9,135.6,2024,8,Aug
+2024-09-01,Clothing and Footwear,91.6,141.7,2024,9,Sep
+2024-10-01,Clothing and Footwear,92.4,136.3,2024,10,Oct
+2024-11-01,Clothing and Footwear,88.7,135.9,2024,11,Nov
+2024-12-01,Clothing and Footwear,91.5,141.1,2024,12,Dec
+2025-01-01,Clothing and Footwear,93.5,151.6,2025,1,Jan
+2025-02-01,Clothing and Footwear,92.5,145.8,2025,2,Feb
+2025-03-01,Clothing and Footwear,92.4,151.9,2025,3,Mar
+2025-04-01,Clothing and Footwear,92.8,147.1,2025,4,Apr
+2025-05-01,Clothing and Footwear,90.5,153.5,2025,5,May
+2025-06-01,Clothing and Footwear,87.5,148.7,2025,6,Jun
+2025-07-01,Clothing and Footwear,87.9,153.4,2025,7,Jul
+2025-08-01,Clothing and Footwear,90.5,136.6,2025,8,Aug
+2025-09-01,Clothing and Footwear,86.1,138.8,2025,9,Sep
+2025-10-01,Clothing and Footwear,82.7,148.8,2025,10,Oct
+2025-11-01,Clothing and Footwear,83.8,165.5,2025,11,Nov
+2017-01-01,Furniture and Fixtures,102.4,94.5,2017,1,Jan
+2017-02-01,Furniture and Fixtures,101.7,94.0,2017,2,Feb
+2017-03-01,Furniture and Fixtures,101.4,99.0,2017,3,Mar
+2017-04-01,Furniture and Fixtures,102.2,99.4,2017,4,Apr
+2017-05-01,Furniture and Fixtures,102.8,103.5,2017,5,May
+2017-06-01,Furniture and Fixtures,100.0,103.4,2017,6,Jun
+2017-07-01,Furniture and Fixtures,98.7,100.3,2017,7,Jul
+2017-08-01,Furniture and Fixtures,98.5,101.3,2017,8,Aug
+2017-09-01,Furniture and Fixtures,97.2,100.0,2017,9,Sep
+2017-10-01,Furniture and Fixtures,98.2,97.8,2017,10,Oct
+2017-11-01,Furniture and Fixtures,98.7,102.9,2017,11,Nov
+2017-12-01,Furniture and Fixtures,98.3,103.8,2017,12,Dec
+2018-01-01,Furniture and Fixtures,97.8,99.5,2018,1,Jan
+2018-02-01,Furniture and Fixtures,98.7,102.0,2018,2,Feb
+2018-03-01,Furniture and Fixtures,99.7,105.0,2018,3,Mar
+2018-04-01,Furniture and Fixtures,98.9,98.3,2018,4,Apr
+2018-05-01,Furniture and Fixtures,98.5,102.5,2018,5,May
+2018-06-01,Furniture and Fixtures,101.9,102.4,2018,6,Jun
+2018-07-01,Furniture and Fixtures,102.4,105.3,2018,7,Jul
+2018-08-01,Furniture and Fixtures,102.5,99.0,2018,8,Aug
+2018-09-01,Furniture and Fixtures,102.8,97.8,2018,9,Sep
+2018-10-01,Furniture and Fixtures,102.6,101.7,2018,10,Oct
+2018-11-01,Furniture and Fixtures,103.6,101.1,2018,11,Nov
+2018-12-01,Furniture and Fixtures,104.7,98.0,2018,12,Dec
+2019-01-01,Furniture and Fixtures,105.5,111.3,2019,1,Jan
+2019-02-01,Furniture and Fixtures,105.4,102.9,2019,2,Feb
+2019-03-01,Furniture and Fixtures,104.4,98.6,2019,3,Mar
+2019-04-01,Furniture and Fixtures,104.4,102.3,2019,4,Apr
+2019-05-01,Furniture and Fixtures,105.2,97.1,2019,5,May
+2019-06-01,Furniture and Fixtures,105.2,96.4,2019,6,Jun
+2019-07-01,Furniture and Fixtures,105.5,100.0,2019,7,Jul
+2019-08-01,Furniture and Fixtures,106.1,96.5,2019,8,Aug
+2019-09-01,Furniture and Fixtures,106.5,94.6,2019,9,Sep
+2019-10-01,Furniture and Fixtures,106.1,94.1,2019,10,Oct
+2019-11-01,Furniture and Fixtures,105.9,91.4,2019,11,Nov
+2019-12-01,Furniture and Fixtures,106.8,93.2,2019,12,Dec
+2020-01-01,Furniture and Fixtures,106.5,95.6,2020,1,Jan
+2020-02-01,Furniture and Fixtures,106.2,92.3,2020,2,Feb
+2020-03-01,Furniture and Fixtures,110.0,75.5,2020,3,Mar
+2020-04-01,Furniture and Fixtures,111.1,62.4,2020,4,Apr
+2020-05-01,Furniture and Fixtures,111.7,62.2,2020,5,May
+2020-06-01,Furniture and Fixtures,109.0,78.7,2020,6,Jun
+2020-07-01,Furniture and Fixtures,108.2,90.2,2020,7,Jul
+2020-08-01,Furniture and Fixtures,107.8,93.5,2020,8,Aug
+2020-09-01,Furniture and Fixtures,106.7,101.6,2020,9,Sep
+2020-10-01,Furniture and Fixtures,107.8,107.6,2020,10,Oct
+2020-11-01,Furniture and Fixtures,106.6,109.6,2020,11,Nov
+2020-12-01,Furniture and Fixtures,104.1,114.6,2020,12,Dec
+2021-01-01,Furniture and Fixtures,104.0,114.1,2021,1,Jan
+2021-02-01,Furniture and Fixtures,103.4,102.4,2021,2,Feb
+2021-03-01,Furniture and Fixtures,100.6,118.3,2021,3,Mar
+2021-04-01,Furniture and Fixtures,102.7,114.2,2021,4,Apr
+2021-05-01,Furniture and Fixtures,101.1,115.6,2021,5,May
+2021-06-01,Furniture and Fixtures,103.5,107.0,2021,6,Jun
+2021-07-01,Furniture and Fixtures,106.0,94.5,2021,7,Jul
+2021-08-01,Furniture and Fixtures,106.5,105.2,2021,8,Aug
+2021-09-01,Furniture and Fixtures,108.1,109.2,2021,9,Sep
+2021-10-01,Furniture and Fixtures,105.4,108.5,2021,10,Oct
+2021-11-01,Furniture and Fixtures,108.1,97.1,2021,11,Nov
+2021-12-01,Furniture and Fixtures,109.2,106.8,2021,12,Dec
+2022-01-01,Furniture and Fixtures,110.7,101.0,2022,1,Jan
+2022-02-01,Furniture and Fixtures,112.3,98.3,2022,2,Feb
+2022-03-01,Furniture and Fixtures,113.5,111.7,2022,3,Mar
+2022-04-01,Furniture and Fixtures,113.2,124.9,2022,4,Apr
+2022-05-01,Furniture and Fixtures,116.0,114.1,2022,5,May
+2022-06-01,Furniture and Fixtures,117.0,113.9,2022,6,Jun
+2022-07-01,Furniture and Fixtures,117.3,115.3,2022,7,Jul
+2022-08-01,Furniture and Fixtures,116.6,113.9,2022,8,Aug
+2022-09-01,Furniture and Fixtures,120.9,100.0,2022,9,Sep
+2022-10-01,Furniture and Fixtures,123.3,98.3,2022,10,Oct
+2022-11-01,Furniture and Fixtures,121.8,96.7,2022,11,Nov
+2022-12-01,Furniture and Fixtures,125.2,89.3,2022,12,Dec
+2023-01-01,Furniture and Fixtures,125.0,91.8,2023,1,Jan
+2023-02-01,Furniture and Fixtures,124.4,90.3,2023,2,Feb
+2023-03-01,Furniture and Fixtures,126.4,82.7,2023,3,Mar
+2023-04-01,Furniture and Fixtures,123.3,86.4,2023,4,Apr
+2023-05-01,Furniture and Fixtures,123.9,87.7,2023,5,May
+2023-06-01,Furniture and Fixtures,122.4,88.8,2023,6,Jun
+2023-07-01,Furniture and Fixtures,122.0,84.4,2023,7,Jul
+2023-08-01,Furniture and Fixtures,123.6,86.3,2023,8,Aug
+2023-09-01,Furniture and Fixtures,121.6,92.1,2023,9,Sep
+2023-10-01,Furniture and Fixtures,122.9,90.6,2023,10,Oct
+2023-11-01,Furniture and Fixtures,123.3,94.6,2023,11,Nov
+2023-12-01,Furniture and Fixtures,121.3,98.7,2023,12,Dec
+2024-01-01,Furniture and Fixtures,121.5,91.0,2024,1,Jan
+2024-02-01,Furniture and Fixtures,122.5,95.9,2024,2,Feb
+2024-03-01,Furniture and Fixtures,122.2,95.8,2024,3,Mar
+2024-04-01,Furniture and Fixtures,124.9,90.5,2024,4,Apr
+2024-05-01,Furniture and Fixtures,124.4,88.5,2024,5,May
+2024-06-01,Furniture and Fixtures,125.5,90.2,2024,6,Jun
+2024-07-01,Furniture and Fixtures,125.9,91.0,2024,7,Jul
+2024-08-01,Furniture and Fixtures,125.3,93.6,2024,8,Aug
+2024-09-01,Furniture and Fixtures,124.8,93.2,2024,9,Sep
+2024-10-01,Furniture and Fixtures,125.2,94.2,2024,10,Oct
+2024-11-01,Furniture and Fixtures,126.1,86.0,2024,11,Nov
+2024-12-01,Furniture and Fixtures,127.5,91.4,2024,12,Dec
+2025-01-01,Furniture and Fixtures,129.1,99.8,2025,1,Jan
+2025-02-01,Furniture and Fixtures,128.9,91.2,2025,2,Feb
+2025-03-01,Furniture and Fixtures,129.0,95.9,2025,3,Mar
+2025-04-01,Furniture and Fixtures,128.5,92.7,2025,4,Apr
+2025-05-01,Furniture and Fixtures,127.9,96.3,2025,5,May
+2025-06-01,Furniture and Fixtures,128.4,92.3,2025,6,Jun
+2025-07-01,Furniture and Fixtures,128.9,92.6,2025,7,Jul
+2025-08-01,Furniture and Fixtures,132.1,84.6,2025,8,Aug
+2025-09-01,Furniture and Fixtures,132.1,82.1,2025,9,Sep
+2025-10-01,Furniture and Fixtures,130.3,87.3,2025,10,Oct
+2025-11-01,Furniture and Fixtures,130.0,88.4,2025,11,Nov

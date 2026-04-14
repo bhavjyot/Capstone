@@ -1,0 +1,43 @@
+group,horizon,model,priceVersion,rmse,mae,r2,nObs,rmseRank,maeRank
+Agriculture,12-month,RandomForest,No Price,10.287783145581525,8.557522074517136,-1.4222080777953638,11,1.0,1.0
+Agriculture,12-month,RandomForest,With Price,10.496873540265412,8.923788939276609,-1.5216672369652966,11,2.0,3.0
+Agriculture,12-month,Naive,Not Applicable,11.25962214770509,8.80909090909091,,11,3.0,2.0
+Agriculture,12-month,SeasonalNaive,Not Applicable,11.25962214770509,8.80909090909091,,11,3.0,2.0
+Agriculture,12-month,SARIMA,Not Applicable,11.512900305009927,9.515062819698217,-0.7124504210408025,12,4.0,4.0
+Agriculture,12-month,LinearRegression,No Price,13.062711970048968,11.294539006228337,-2.905121470278174,11,5.0,5.0
+Agriculture,12-month,LinearRegression,With Price,15.774257360063393,14.77506625203509,-4.694632336563184,11,6.0,6.0
+Clothing and Footwear,12-month,SARIMA,Not Applicable,8.021745675739266,7.100474246693758,-1.6083959562494523,12,1.0,1.0
+Clothing and Footwear,12-month,Naive,Not Applicable,18.99363529759855,16.872727272727268,,11,2.0,2.0
+Clothing and Footwear,12-month,SeasonalNaive,Not Applicable,18.99363529759855,16.872727272727268,,11,2.0,2.0
+Clothing and Footwear,12-month,LinearRegression,With Price,25.35548644728399,23.101696413374796,-10.82302075961631,11,3.0,3.0
+Clothing and Footwear,12-month,RandomForest,With Price,31.224101053408997,30.41878349540784,-16.92934590110267,11,4.0,4.0
+Clothing and Footwear,12-month,RandomForest,No Price,31.399356709879427,30.663313543410734,-17.131179584399145,11,5.0,5.0
+Clothing and Footwear,12-month,LinearRegression,No Price,34.650233035692644,33.23762735622315,-21.07988859246652,11,6.0,6.0
+Furniture and Fixtures,12-month,Naive,Not Applicable,6.2505999712027664,5.154545454545456,,11,1.0,1.0
+Furniture and Fixtures,12-month,SeasonalNaive,Not Applicable,6.2505999712027664,5.154545454545456,,11,1.0,1.0
+Furniture and Fixtures,12-month,SARIMA,Not Applicable,6.686654265694221,5.968688866563977,-4.708894136962953,12,2.0,2.0
+Furniture and Fixtures,12-month,LinearRegression,With Price,8.306359420664966,6.497586503576067,-1.7408872339399268,11,3.0,3.0
+Furniture and Fixtures,12-month,RandomForest,With Price,8.699799921285887,7.626473143493637,-2.0066872711248274,11,4.0,4.0
+Furniture and Fixtures,12-month,LinearRegression,No Price,10.995388688227877,9.289213331640106,-3.8027601894449425,11,5.0,5.0
+Furniture and Fixtures,12-month,RandomForest,No Price,14.24462029616638,13.4988315592706,-7.060676349590125,11,6.0,6.0
+Agriculture,3-month,SARIMA,Not Applicable,9.436283959609497,7.619457033921138,-0.36576210256256925,23,1.0,1.0
+Agriculture,3-month,Naive,Not Applicable,10.808954621053786,9.014999999999997,,20,2.0,2.0
+Agriculture,3-month,LinearRegression,No Price,12.904271681479907,10.203788077288205,-1.6483867102037855,20,3.0,3.0
+Agriculture,3-month,LinearRegression,With Price,13.759385444861467,11.078662589073463,-2.0110119396760533,20,4.0,5.0
+Agriculture,3-month,SeasonalNaive,Not Applicable,14.26877710247098,10.789999999999997,,20,5.0,4.0
+Agriculture,3-month,RandomForest,No Price,15.32139722894697,13.339056946372347,-2.733456958163497,20,6.0,6.0
+Agriculture,3-month,RandomForest,With Price,16.264805477449837,14.045455213572836,-3.2073840015408415,20,7.0,7.0
+Clothing and Footwear,3-month,Naive,Not Applicable,10.155195714509887,7.579999999999998,,20,1.0,1.0
+Clothing and Footwear,3-month,LinearRegression,With Price,12.889714573733034,10.433761972235995,-0.937685850448905,20,2.0,2.0
+Clothing and Footwear,3-month,SARIMA,Not Applicable,15.358128170995746,12.819555213302952,-1.3566672783255398,23,3.0,3.0
+Clothing and Footwear,3-month,LinearRegression,No Price,16.780325781374362,14.769472912892638,-2.2839576148164156,20,4.0,4.0
+Clothing and Footwear,3-month,SeasonalNaive,Not Applicable,22.933632507738498,20.105,,20,5.0,5.0
+Clothing and Footwear,3-month,RandomForest,With Price,26.173522127962467,24.111527877263345,-6.989527658328362,20,6.0,6.0
+Clothing and Footwear,3-month,RandomForest,No Price,26.81680168815766,24.83376193448997,-7.3870788800366665,20,7.0,7.0
+Furniture and Fixtures,3-month,LinearRegression,With Price,4.4803619191608535,3.8368669411689966,-0.211744784567498,20,1.0,3.0
+Furniture and Fixtures,3-month,RandomForest,With Price,4.7993681974498665,3.4685613431971776,-0.39044272238110667,20,2.0,1.0
+Furniture and Fixtures,3-month,RandomForest,No Price,4.949451565702423,3.739560944366693,-0.4787648604201493,20,3.0,2.0
+Furniture and Fixtures,3-month,Naive,Not Applicable,5.676134247883853,4.845000000000001,,20,4.0,5.0
+Furniture and Fixtures,3-month,SeasonalNaive,Not Applicable,5.862806495186414,4.875000000000001,,20,5.0,6.0
+Furniture and Fixtures,3-month,LinearRegression,No Price,5.899065801278599,4.754636478735312,-1.1006391036897907,20,6.0,4.0
+Furniture and Fixtures,3-month,SARIMA,Not Applicable,7.73857839084592,6.499119521126728,-2.6948567432779384,23,7.0,7.0

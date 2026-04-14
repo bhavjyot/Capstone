@@ -1,0 +1,22 @@
+group,horizon,model,priceVersion,rmse,mae,r2,nObs
+Agriculture,3-month,SARIMA,Not Applicable,9.436283959609497,7.619457033921138,-0.36576210256256925,23
+Agriculture,3-month,Naive,Not Applicable,10.808954621053786,9.014999999999997,,20
+Agriculture,3-month,LinearRegression,No Price,12.904271681479907,10.203788077288205,-1.6483867102037855,20
+Agriculture,3-month,LinearRegression,With Price,13.759385444861467,11.078662589073463,-2.0110119396760533,20
+Agriculture,3-month,SeasonalNaive,Not Applicable,14.26877710247098,10.789999999999997,,20
+Agriculture,3-month,RandomForest,No Price,15.32139722894697,13.339056946372347,-2.733456958163497,20
+Agriculture,3-month,RandomForest,With Price,16.264805477449837,14.045455213572836,-3.2073840015408415,20
+Clothing and Footwear,3-month,Naive,Not Applicable,10.155195714509887,7.579999999999998,,20
+Clothing and Footwear,3-month,LinearRegression,With Price,12.889714573733034,10.433761972235995,-0.937685850448905,20
+Clothing and Footwear,3-month,SARIMA,Not Applicable,15.358128170995746,12.819555213302952,-1.3566672783255398,23
+Clothing and Footwear,3-month,LinearRegression,No Price,16.780325781374362,14.769472912892638,-2.2839576148164156,20
+Clothing and Footwear,3-month,SeasonalNaive,Not Applicable,22.933632507738498,20.105,,20
+Clothing and Footwear,3-month,RandomForest,With Price,26.173522127962467,24.111527877263345,-6.989527658328364,20
+Clothing and Footwear,3-month,RandomForest,No Price,26.816801688157653,24.83376193448997,-7.387078880036663,20
+Furniture and Fixtures,3-month,LinearRegression,With Price,4.4803619191608535,3.8368669411689966,-0.211744784567498,20
+Furniture and Fixtures,3-month,RandomForest,With Price,4.79936819744987,3.4685613431971776,-0.39044272238110844,20
+Furniture and Fixtures,3-month,RandomForest,No Price,4.949451565702425,3.739560944366695,-0.4787648604201509,20
+Furniture and Fixtures,3-month,Naive,Not Applicable,5.676134247883853,4.845000000000001,,20
+Furniture and Fixtures,3-month,SeasonalNaive,Not Applicable,5.862806495186414,4.875000000000001,,20
+Furniture and Fixtures,3-month,LinearRegression,No Price,5.899065801278599,4.754636478735312,-1.1006391036897907,20
+Furniture and Fixtures,3-month,SARIMA,Not Applicable,7.73857839084592,6.499119521126728,-2.6948567432779384,23

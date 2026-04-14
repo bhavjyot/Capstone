@@ -1,0 +1,7 @@
+group,horizon,model,rmse,mae,nObs
+Agriculture,12-month,Naive,11.25962214770509,8.80909090909091,11
+Agriculture,12-month,Seasonal Naive,11.25962214770509,8.80909090909091,11
+Clothing and Footwear,12-month,Naive,18.99363529759855,16.872727272727268,11
+Clothing and Footwear,12-month,Seasonal Naive,18.99363529759855,16.872727272727268,11
+Furniture and Fixtures,12-month,Naive,6.2505999712027664,5.154545454545456,11
+Furniture and Fixtures,12-month,Seasonal Naive,6.2505999712027664,5.154545454545456,11

@@ -1,0 +1,22 @@
+group,horizon,model,priceVersion,rmse,mae,r2,nObs
+Agriculture,12-month,RandomForest,No Price,10.287783145581525,8.557522074517136,-1.4222080777953638,11
+Agriculture,12-month,RandomForest,With Price,10.496873540265412,8.923788939276609,-1.5216672369652966,11
+Agriculture,12-month,Naive,Not Applicable,11.25962214770509,8.80909090909091,,11
+Agriculture,12-month,SeasonalNaive,Not Applicable,11.25962214770509,8.80909090909091,,11
+Agriculture,12-month,SARIMA,Not Applicable,11.512900305009927,9.515062819698217,-0.7124504210408025,12
+Agriculture,12-month,LinearRegression,No Price,13.062711970048968,11.294539006228337,-2.905121470278174,11
+Agriculture,12-month,LinearRegression,With Price,15.774257360063393,14.77506625203509,-4.694632336563184,11
+Clothing and Footwear,12-month,SARIMA,Not Applicable,8.021745675739266,7.100474246693758,-1.6083959562494523,12
+Clothing and Footwear,12-month,Naive,Not Applicable,18.99363529759855,16.872727272727268,,11
+Clothing and Footwear,12-month,SeasonalNaive,Not Applicable,18.99363529759855,16.872727272727268,,11
+Clothing and Footwear,12-month,LinearRegression,With Price,25.35548644728399,23.101696413374796,-10.82302075961631,11
+Clothing and Footwear,12-month,RandomForest,With Price,31.224101053408997,30.41878349540784,-16.92934590110267,11
+Clothing and Footwear,12-month,RandomForest,No Price,31.399356709879427,30.663313543410734,-17.131179584399145,11
+Clothing and Footwear,12-month,LinearRegression,No Price,34.650233035692644,33.23762735622315,-21.07988859246652,11
+Furniture and Fixtures,12-month,Naive,Not Applicable,6.2505999712027664,5.154545454545456,,11
+Furniture and Fixtures,12-month,SeasonalNaive,Not Applicable,6.2505999712027664,5.154545454545456,,11
+Furniture and Fixtures,12-month,SARIMA,Not Applicable,6.686654265694221,5.968688866563977,-4.708894136962953,12
+Furniture and Fixtures,12-month,LinearRegression,With Price,8.306359420664966,6.497586503576067,-1.7408872339399268,11
+Furniture and Fixtures,12-month,RandomForest,With Price,8.699799921285887,7.626473143493637,-2.0066872711248274,11
+Furniture and Fixtures,12-month,LinearRegression,No Price,10.995388688227877,9.289213331640106,-3.8027601894449425,11
+Furniture and Fixtures,12-month,RandomForest,No Price,14.24462029616638,13.4988315592706,-7.060676349590125,11

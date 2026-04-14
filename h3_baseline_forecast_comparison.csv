@@ -1,0 +1,61 @@
+group,refDate,forecastDate,horizon,actual,naiveForecast,seasonalNaiveForecast
+Agriculture,2024-01-01,2024-04-01,3-month,125.4,127.3,89.3
+Agriculture,2024-02-01,2024-05-01,3-month,120.2,128.4,129.0
+Agriculture,2024-03-01,2024-06-01,3-month,114.8,114.0,133.0
+Agriculture,2024-04-01,2024-07-01,3-month,121.9,125.4,122.0
+Agriculture,2024-05-01,2024-08-01,3-month,127.5,120.2,119.9
+Agriculture,2024-06-01,2024-09-01,3-month,134.0,114.8,127.7
+Agriculture,2024-07-01,2024-10-01,3-month,145.9,121.9,120.7
+Agriculture,2024-08-01,2024-11-01,3-month,138.3,127.5,139.7
+Agriculture,2024-09-01,2024-12-01,3-month,127.2,134.0,142.4
+Agriculture,2024-10-01,2025-01-01,3-month,141.9,145.9,127.3
+Agriculture,2024-11-01,2025-02-01,3-month,125.4,138.3,128.4
+Agriculture,2024-12-01,2025-03-01,3-month,138.8,127.2,114.0
+Agriculture,2025-01-01,2025-04-01,3-month,128.4,141.9,125.4
+Agriculture,2025-02-01,2025-05-01,3-month,130.7,125.4,120.2
+Agriculture,2025-03-01,2025-06-01,3-month,127.9,138.8,114.8
+Agriculture,2025-04-01,2025-07-01,3-month,122.4,128.4,121.9
+Agriculture,2025-05-01,2025-08-01,3-month,125.3,130.7,127.5
+Agriculture,2025-06-01,2025-09-01,3-month,126.3,127.9,134.0
+Agriculture,2025-07-01,2025-10-01,3-month,132.2,122.4,145.9
+Agriculture,2025-08-01,2025-11-01,3-month,142.1,125.3,138.3
+Clothing and Footwear,2024-01-01,2024-04-01,3-month,131.3,122.2,115.0
+Clothing and Footwear,2024-02-01,2024-05-01,3-month,131.5,130.7,115.8
+Clothing and Footwear,2024-03-01,2024-06-01,3-month,130.8,133.6,120.9
+Clothing and Footwear,2024-04-01,2024-07-01,3-month,132.3,131.3,102.1
+Clothing and Footwear,2024-05-01,2024-08-01,3-month,135.6,131.5,102.0
+Clothing and Footwear,2024-06-01,2024-09-01,3-month,141.7,130.8,95.7
+Clothing and Footwear,2024-07-01,2024-10-01,3-month,136.3,132.3,100.2
+Clothing and Footwear,2024-08-01,2024-11-01,3-month,135.9,135.6,115.7
+Clothing and Footwear,2024-09-01,2024-12-01,3-month,141.1,141.7,132.6
+Clothing and Footwear,2024-10-01,2025-01-01,3-month,151.6,136.3,122.2
+Clothing and Footwear,2024-11-01,2025-02-01,3-month,145.8,135.9,130.7
+Clothing and Footwear,2024-12-01,2025-03-01,3-month,151.9,141.1,133.6
+Clothing and Footwear,2025-01-01,2025-04-01,3-month,147.1,151.6,131.3
+Clothing and Footwear,2025-02-01,2025-05-01,3-month,153.5,145.8,131.5
+Clothing and Footwear,2025-03-01,2025-06-01,3-month,148.7,151.9,130.8
+Clothing and Footwear,2025-04-01,2025-07-01,3-month,153.4,147.1,132.3
+Clothing and Footwear,2025-05-01,2025-08-01,3-month,136.6,153.5,135.6
+Clothing and Footwear,2025-06-01,2025-09-01,3-month,138.8,148.7,141.7
+Clothing and Footwear,2025-07-01,2025-10-01,3-month,148.8,153.4,136.3
+Clothing and Footwear,2025-08-01,2025-11-01,3-month,165.5,136.6,135.9
+Furniture and Fixtures,2024-01-01,2024-04-01,3-month,90.5,91.0,86.4
+Furniture and Fixtures,2024-02-01,2024-05-01,3-month,88.5,95.9,87.7
+Furniture and Fixtures,2024-03-01,2024-06-01,3-month,90.2,95.8,88.8
+Furniture and Fixtures,2024-04-01,2024-07-01,3-month,91.0,90.5,84.4
+Furniture and Fixtures,2024-05-01,2024-08-01,3-month,93.6,88.5,86.3
+Furniture and Fixtures,2024-06-01,2024-09-01,3-month,93.2,90.2,92.1
+Furniture and Fixtures,2024-07-01,2024-10-01,3-month,94.2,91.0,90.6
+Furniture and Fixtures,2024-08-01,2024-11-01,3-month,86.0,93.6,94.6
+Furniture and Fixtures,2024-09-01,2024-12-01,3-month,91.4,93.2,98.7
+Furniture and Fixtures,2024-10-01,2025-01-01,3-month,99.8,94.2,91.0
+Furniture and Fixtures,2024-11-01,2025-02-01,3-month,91.2,86.0,95.9
+Furniture and Fixtures,2024-12-01,2025-03-01,3-month,95.9,91.4,95.8
+Furniture and Fixtures,2025-01-01,2025-04-01,3-month,92.7,99.8,90.5
+Furniture and Fixtures,2025-02-01,2025-05-01,3-month,96.3,91.2,88.5
+Furniture and Fixtures,2025-03-01,2025-06-01,3-month,92.3,95.9,90.2
+Furniture and Fixtures,2025-04-01,2025-07-01,3-month,92.6,92.7,91.0
+Furniture and Fixtures,2025-05-01,2025-08-01,3-month,84.6,96.3,93.6
+Furniture and Fixtures,2025-06-01,2025-09-01,3-month,82.1,92.3,93.2
+Furniture and Fixtures,2025-07-01,2025-10-01,3-month,87.3,92.6,94.2
+Furniture and Fixtures,2025-08-01,2025-11-01,3-month,88.4,84.6,86.0

@@ -1,0 +1,7 @@
+group,horizon,model,priceVersion,covidPeriodLabel,meanAbsError,maxAbsError,nObs
+Agriculture,12-month,RandomForest,No Price,Post-COVID,8.55752207451714,19.112476946201852,11
+Agriculture,3-month,SARIMA,Not Applicable,Post-COVID,7.6194570339211385,22.7521603493298,23
+Clothing and Footwear,12-month,SARIMA,Not Applicable,Post-COVID,7.100474246693758,13.403939675753975,12
+Clothing and Footwear,3-month,Naive,Not Applicable,Post-COVID,7.579999999999998,28.900000000000006,20
+Furniture and Fixtures,12-month,Naive,Not Applicable,Post-COVID,5.154545454545456,11.100000000000009,11
+Furniture and Fixtures,3-month,LinearRegression,With Price,Post-COVID,3.8368669411689966,8.819795256070663,20

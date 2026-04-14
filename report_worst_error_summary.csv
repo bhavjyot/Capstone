@@ -1,0 +1,7 @@
+group,horizon,model,priceVersion,forecastDate,actual,predicted,error,absError
+Agriculture,12-month,RandomForest,No Price,2025-11-01,142.1,122.98752305379814,19.112476946201852,19.112476946201852
+Agriculture,3-month,SARIMA,Not Applicable,2024-11-01,138.3,115.54783965067021,22.7521603493298,22.7521603493298
+Clothing and Footwear,12-month,SARIMA,Not Applicable,2024-09-01,141.7,128.296060324246,13.403939675753975,13.403939675753975
+Clothing and Footwear,3-month,Naive,Not Applicable,2025-11-01,165.5,136.6,28.900000000000006,28.900000000000006
+Furniture and Fixtures,12-month,Naive,Not Applicable,2025-09-01,82.1,93.2,-11.100000000000009,11.100000000000009
+Furniture and Fixtures,3-month,LinearRegression,With Price,2025-05-01,96.3,87.48020474392933,8.819795256070663,8.819795256070663

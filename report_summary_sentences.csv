@@ -1,0 +1,7 @@
+group,horizon,summarySentence
+Agriculture,12-month,"For Agriculture, the best-performing model at the 12-month horizon was RandomForest (No Price) with RMSE = 10.29 and MAE = 8.56."
+Clothing and Footwear,12-month,"For Clothing and Footwear, the best-performing model at the 12-month horizon was SARIMA (Not Applicable) with RMSE = 8.02 and MAE = 7.10."
+Furniture and Fixtures,12-month,"For Furniture and Fixtures, the best-performing model at the 12-month horizon was Naive (Not Applicable) with RMSE = 6.25 and MAE = 5.15."
+Agriculture,3-month,"For Agriculture, the best-performing model at the 3-month horizon was SARIMA (Not Applicable) with RMSE = 9.44 and MAE = 7.62."
+Clothing and Footwear,3-month,"For Clothing and Footwear, the best-performing model at the 3-month horizon was Naive (Not Applicable) with RMSE = 10.16 and MAE = 7.58."
+Furniture and Fixtures,3-month,"For Furniture and Fixtures, the best-performing model at the 3-month horizon was LinearRegression (With Price) with RMSE = 4.48 and MAE = 3.84."

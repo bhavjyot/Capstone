@@ -1,0 +1,7 @@
+horizon,group,model,priceVersion,rmse,mae,r2,nObs
+12-month,Agriculture,RandomForest,No Price,10.287783145581532,8.55752207451714,-1.422208077795367,11
+12-month,Clothing and Footwear,SARIMA,Not Applicable,8.021745675739266,7.100474246693758,-1.6083959562494523,12
+12-month,Furniture and Fixtures,Naive,Not Applicable,6.2505999712027664,5.154545454545456,-4.708894136962953,11
+3-month,Agriculture,SARIMA,Not Applicable,9.436283959609497,7.619457033921138,-0.36576210256256925,23
+3-month,Clothing and Footwear,Naive,Not Applicable,10.155195714509887,7.579999999999998,-0.937685850448905,20
+3-month,Furniture and Fixtures,LinearRegression,With Price,4.4803619191608535,3.8368669411689966,-0.211744784567498,20

@@ -1,0 +1,7 @@
+group,horizon,model,priceVersion,Post-COVID
+Agriculture,12-month,RandomForest,No Price,8.557522074517136
+Agriculture,3-month,SARIMA,Not Applicable,7.6194570339211385
+Clothing and Footwear,12-month,SARIMA,Not Applicable,7.100474246693758
+Clothing and Footwear,3-month,Naive,Not Applicable,7.579999999999998
+Furniture and Fixtures,12-month,Naive,Not Applicable,5.154545454545456
+Furniture and Fixtures,3-month,LinearRegression,With Price,3.8368669411689966
