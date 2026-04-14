@@ -1,4 +1,95 @@
-📦 Forecasting Monthly Import Volume for Selected Canadian Commodity Groups
+# Forecasting Canadian Import Volume for Selected Commodity Groups
+
+## Overview
+This project forecasts monthly Canadian import volume indexes for three selected commodity groups using Statistics Canada data:
+
+- Agriculture
+- Clothing and Footwear
+- Furniture and Fixtures
+
+The study compares forecasting performance at two horizons:
+
+- 3-month ahead
+- 12-month ahead
+
+It also examines whether adding the import price index improves forecast accuracy.
+
+## Research Questions
+1. Which forecasting model produces the lowest forecasting error for each selected commodity group at the 3-month horizon?
+2. Which forecasting model produces the lowest forecasting error for each selected commodity group at the 12-month horizon?
+3. Does adding the import price index improve forecast accuracy compared with using only past volume-based information?
+
+## Dataset
+**Source:** Statistics Canada  
+**Dataset:** International merchandise trade, by commodity, price and volume indexes, monthly
+
+### Final filtered dataset
+The modeling dataset includes:
+
+- Imports only
+- Seasonally adjusted observations only
+- Volume index as the target variable
+- Price index as an optional predictor
+- Three selected commodity groups only
+
+### Selected groups
+- Furniture and Fixtures
+- Clothing and Footwear
+- Agriculture
+
+**Note:** “Agriculture” is a simplified project label for the selected Statistics Canada series *Fresh fruit, nuts and vegetables, and pulse crops*. It does not represent the full agricultural sector.
+
+### Dataset summary
+- Date range: January 2017 to November 2025
+- Total rows: 321
+- Groups: 3
+- Observations per group: 107
+
+Validation checks confirmed:
+- no missing values in the final cleaned dataset
+- no duplicate month-group rows
+- no missing months within each group
+
+## Models Compared
+- Naïve
+- Seasonal Naïve
+- Linear Regression
+- Random Forest
+- SARIMA
+
+For Linear Regression and Random Forest, both **with-price** and **without-price** versions were tested.
+
+## Evaluation Metrics
+- RMSE
+- MAE
+
+RMSE was used as the main model-selection metric.
+
+## Final Best Models
+
+### 3-month horizon
+- Agriculture: **SARIMA**
+- Clothing and Footwear: **Naïve**
+- Furniture and Fixtures: **Linear Regression with price**
+
+### 12-month horizon
+- Agriculture: **Random Forest without price**
+- Clothing and Footwear: **SARIMA**
+- Furniture and Fixtures: **Naïve**
+
+## Key Findings
+- Forecasting performance depended on both the commodity group and the forecast horizon.
+- No single model dominated all cases.
+- Naïve remained a strong benchmark.
+- Price information helped some groups, but not all.
+- Longer-horizon forecasting was generally more difficult.
+
+## Repository Structure
+```text
+Capstone/
+├── data/
+├── notebooks/
+├── README.md
 
 **Project Overview**
 
